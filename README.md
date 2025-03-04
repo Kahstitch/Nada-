@@ -27,7 +27,7 @@ Bem-vindo ao repositório do projeto! Este repositório foi organizado de forma 
   - **exemplos:** Exemplos didáticos de definição e chamada de funções.
   - **exercicios:** Desafios para consolidar o entendimento sobre recursão e passagem de parâmetros.
 
-- [**tipos_dados**](./tipos_dados/README.md)  
+- [**tipos_dados**](./tipo_dados/README.md)  
   Foca no uso e manipulação dos principais tipos de dados em Python.
   - **exemplos:** Exemplos práticos para criação e uso de listas, dicionários, tuplas, etc.
   - **exercicios:** Exercícios para fixar a manipulação de estruturas de dados.
